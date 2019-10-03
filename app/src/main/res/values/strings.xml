@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GrainChainTest</string>
+    <string name="title_activity_maps">Route Record</string>
+
+    <string name="list_route_title">Route list</string>
+
+    <!-- Main Activity -->
+    <string name="click_start_record">Click here to start record</string>
+    <string name="click_started_record">Recording...</string>
+
+    <!-- Save Route Dialog -->
+    <string name="dialog_title_save">Enter your name to save route</string>
+    <string name="dialog_user_hint">Username</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_save">Save</string>
+
+    <!-- Generic One Text Dialog -->
+    <string name="dialog_one_accept">Accept</string>
+
+    <!-- Map Fragment -->
+    <string name="error_permissions">Missing location permission</string>
+    <string name="error_no_connected">An error has happened</string>
+    
+    <!-- Item detail -->
+    <string name="distance_item">Distance: %s</string>
+    <string name="time_item">Time: %s</string>
+
+</resources>
